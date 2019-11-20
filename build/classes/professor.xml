@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<classe>
+    <professor id = "390">
+        <nome>Professor290</nome>
+        <sobrenome>De Souza</sobrenome>
+        <idade>38</idade>
+    </professor>
+    
+    <professor id = "391">
+        <nome>Professor291</nome>
+        <sobrenome>Finidio</sobrenome>
+        <idade>32</idade>
+    </professor>
+    
+    <professor id = "392">
+        <nome>Professor292</nome>
+        <sobrenome>Calish</sobrenome>
+        <idade>24</idade>
+    </professor>
+</classe>
